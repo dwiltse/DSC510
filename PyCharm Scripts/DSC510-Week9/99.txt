@@ -1,0 +1,7 @@
+Length of Dictionary:  4
+Word        Count      
+------------------
+of          1
+length      1
+dictionary  1
+143         1
